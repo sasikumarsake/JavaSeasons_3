@@ -1,8 +1,5 @@
 {
-
-"firstname":"John",
-"age":30,
-"phone":9848022338
-
-
+	"firstname": "John",
+	"age": 30,
+	"phone": 9848022338
 }
